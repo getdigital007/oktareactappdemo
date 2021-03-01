@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.e1fcead8.chunk.js",
+    "main.js.map": "/static/js/main.e1fcead8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2db6149a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2db6149a.js.map",
+    "static/css/2.d5c46f23.chunk.css": "/static/css/2.d5c46f23.chunk.css",
+    "static/js/2.4a2d598b.chunk.js": "/static/js/2.4a2d598b.chunk.js",
+    "static/js/2.4a2d598b.chunk.js.map": "/static/js/2.4a2d598b.chunk.js.map",
+    "static/js/3.bb8b6702.chunk.js": "/static/js/3.bb8b6702.chunk.js",
+    "static/js/3.bb8b6702.chunk.js.map": "/static/js/3.bb8b6702.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d5c46f23.chunk.css.map": "/static/css/2.d5c46f23.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4a2d598b.chunk.js.LICENSE.txt": "/static/js/2.4a2d598b.chunk.js.LICENSE.txt",
+    "static/media/okta-sign-in.min.css": "/static/media/yubikeyDemo.5ebed9d6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2db6149a.js",
+    "static/css/2.d5c46f23.chunk.css",
+    "static/js/2.4a2d598b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.e1fcead8.chunk.js"
+  ]
+}
